@@ -22,8 +22,8 @@
 			}
 		],
 		"typeProperties": {
-			"schema": "MGA1",
-			"table": "stage_Transactiondata"
+			"schema": "",
+			"table": ""
 		}
 	}
 }
